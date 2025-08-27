@@ -1,11 +1,11 @@
-# Sharemy; a file sharing platform 
+# Sharemy – a file sharing platform 
 
 Sharemy is a **simple, secure, and lightweight file-sharing platform** designed to run on your local network.  
 It allows users to **upload, share, and download files seamlessly** using just a browser no external services required.
 
 ---
 
-## ✨ Features
+## Features
 - 🔑 **Password-protected uploads** – prevent unauthorized access.  
 - 📂 **File uploads & downloads** – easily share files across devices on the same network.  
 - 🖱 **Drag-and-drop support** – simple and intuitive interface for quick uploads.  
@@ -23,6 +23,6 @@ It allows users to **upload, share, and download files seamlessly** using just a
 ## Sharing Platform
 ![Platform-view](platform-daymode.png)
 
-## Sharing Platform
+## Sharing Platform – Dark Mode
 ![Platform-view](platform-darkmode.png)
 
