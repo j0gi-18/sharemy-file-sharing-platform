@@ -21,6 +21,8 @@ It allows users to **upload, share, and download files seamlessly** using just a
 ![Signup-page-view](signup-page.png)
 
 ## Sharing Platform
+![Platform-view](platform-daymode.png)
 
-
+## Sharing Platform
+![Platform-view](platform-darkmode.png)
 
